@@ -1,0 +1,11 @@
+{
+  "profiles": [
+    { "id": 1, "name": "test", "age": 18 },
+    { "id": 2, "name": "muster", "age": 25 },
+    { "id": 3, "name": "mann", "age": 40 },
+    { "id": 4, "name": "Lol", "age": 40 },
+    { "id": 5, "name": "Lorem", "age": 50 },
+    { "id": 6, "name": "Bla", "age": 15 },
+    { "id": 7, "name": "Hermi", "age": 33 }
+  ]
+}
